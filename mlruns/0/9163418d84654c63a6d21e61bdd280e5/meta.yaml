@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/JayaharisaiTothala/Documents/mlops/mlruns/0/9163418d84654c63a6d21e61bdd280e5/artifacts
+end_time: 1660736235926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9163418d84654c63a6d21e61bdd280e5
+run_uuid: 9163418d84654c63a6d21e61bdd280e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1660736223579
+status: 3
+tags: []
+user_id: JayaharisaiTothala
